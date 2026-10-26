@@ -54,10 +54,10 @@ that is what the repository reports.
 ### Builds
 
 - **[Quantum Physics Lab](https://github.com/thinkiamparanoid2/quantum-physics-lab)** —
-  interactive quantum physics and quantum computing in the browser, in vanilla
-  JavaScript with zero build dependencies: wave-particle duality, Bell tests,
-  Bloch sphere visualisations and surface-code error correction, with
-  experiments run on IBM's `ibm_kingston` processor.
+  84 interactive lessons in five tracks, in the browser, in vanilla JavaScript
+  with zero build dependencies: wave-particle duality, Bell tests, Bloch sphere
+  visualisations and surface-code error correction, with experiments run on
+  IBM's `ibm_kingston` processor.
   [Live site](https://quantum-physics-lab.vercel.app)
 
 - **[Compiler Design](https://github.com/thinkiamparanoid2/Compiler-Design)** —
